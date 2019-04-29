@@ -1,0 +1,7 @@
+; $Id$
+
+; For syms and schematics, we can search:
+;
+(component-library ".")
+;
+; $Log$
